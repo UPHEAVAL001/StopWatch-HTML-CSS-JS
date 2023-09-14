@@ -1,6 +1,6 @@
 # StopWatch Application Using HTML-CSS-JS
 
-![Design Preview For Stopwatch](./image.png)
+![Design Preview For Stopwatch](./design-preview.PNG)
 
 
 ## Welcome! 👋
